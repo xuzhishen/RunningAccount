@@ -2,7 +2,7 @@
 
 namespace RunningAccount.Core
 {
-    public class Class1
+    public static class Statistics
     {
     }
 }

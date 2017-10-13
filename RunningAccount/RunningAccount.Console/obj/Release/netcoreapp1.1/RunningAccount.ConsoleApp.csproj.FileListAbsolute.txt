@@ -1,0 +1,11 @@
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.ConsoleApp.deps.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.ConsoleApp.runtimeconfig.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.ConsoleApp.runtimeconfig.dev.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.ConsoleApp.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.ConsoleApp.pdb
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.Core.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Release\netcoreapp1.1\RunningAccount.Core.pdb
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Release\netcoreapp1.1\RunningAccount.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Release\netcoreapp1.1\RunningAccount.ConsoleApp.AssemblyInfo.cs
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Release\netcoreapp1.1\RunningAccount.ConsoleApp.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Release\netcoreapp1.1\RunningAccount.ConsoleApp.pdb
