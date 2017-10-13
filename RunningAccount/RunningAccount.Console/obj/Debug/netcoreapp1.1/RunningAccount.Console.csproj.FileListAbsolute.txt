@@ -1,0 +1,5 @@
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Debug\netcoreapp1.1\RunningAccount.Console.deps.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Debug\netcoreapp1.1\RunningAccount.Console.runtimeconfig.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\bin\Debug\netcoreapp1.1\RunningAccount.Console.runtimeconfig.dev.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Debug\netcoreapp1.1\RunningAccount.Console.csprojResolveAssemblyReference.cache
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Console\obj\Debug\netcoreapp1.1\RunningAccount.Console.AssemblyInfo.cs

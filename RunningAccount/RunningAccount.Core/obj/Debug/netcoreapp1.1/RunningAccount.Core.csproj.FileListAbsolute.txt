@@ -1,0 +1,6 @@
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\bin\Debug\netcoreapp1.1\RunningAccount.Core.deps.json
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\bin\Debug\netcoreapp1.1\RunningAccount.Core.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\bin\Debug\netcoreapp1.1\RunningAccount.Core.pdb
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\obj\Debug\netcoreapp1.1\RunningAccount.Core.AssemblyInfo.cs
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\obj\Debug\netcoreapp1.1\RunningAccount.Core.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.Core\obj\Debug\netcoreapp1.1\RunningAccount.Core.pdb
