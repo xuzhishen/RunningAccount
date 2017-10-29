@@ -1,0 +1,7 @@
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\bin\Debug\RunningAccount.SimpleCore.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\bin\Debug\RunningAccount.SimpleCore.pdb
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\obj\Debug\RunningAccount.SimpleCore.dll
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\obj\Debug\RunningAccount.SimpleCore.pdb
+D:\GitHub\RunningAccount\RunningAccount\RunningAccount.SimpleCore\obj\Debug\RunningAccount.SimpleCore.csprojResolveAssemblyReference.cache

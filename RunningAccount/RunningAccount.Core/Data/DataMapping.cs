@@ -7,9 +7,9 @@ namespace RunningAccount.Core.Data
 {
     class DataMapping
     {
-        private List<User> Users { get; set; }
+        public List<User> Users { get; set; }
 
-        private List<RARecord> Records { get; set; }
+        public List<RARecord> Records { get; set; }
 
     }
 }
