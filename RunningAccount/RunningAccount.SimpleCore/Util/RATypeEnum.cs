@@ -19,20 +19,20 @@ namespace RunningAccount.Core.Util
         /// </summary>
         TurnOut = 2,
 
-        /// <summary>
-        /// 盈利
-        /// </summary>
-        Profit = 3,
+        ///// <summary>
+        ///// 盈利
+        ///// </summary>
+        //Profit = 3,
 
-        /// <summary>
-        /// 亏损
-        /// </summary>
-        Loss = 4,
+        ///// <summary>
+        ///// 亏损
+        ///// </summary>
+        //Loss = 4,
 
-        /// <summary>
-        /// 费用
-        /// </summary>
-        Fee = 5,
+        ///// <summary>
+        ///// 费用
+        ///// </summary>
+        //Fee = 5,
 
         /// <summary>
         /// 新估值
